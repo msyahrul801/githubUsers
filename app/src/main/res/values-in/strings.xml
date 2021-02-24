@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="token">token 938716c162ecfbd347b60d2b6a08ab603b622922</string>
+    <string name="following">Mengikuti (%d)</string>
+    <string name="followers">Pengikut (%d)</string>
+    <string name="private1">Pribadi</string>
+    <string name="search">Cari</string>
+    <string name="failed_load">Gagal memuat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_users">Pengguna</string>
+    <string name="favorite">Pengguna favorit</string>
+    <string name="menu_setting">Setelan bahasa</string>
+
+    <string name="exit_dialog">Keluar dari aplikasi ?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="favoriteaction">FavoriteAction</string>
+
+    <string name="title_activity_settings">Setelan</string>
+    <string name="language_header">Bahasa</string>
+    <string name="language">Indonesia (IN)</string>
+    <string name="alarm_header">Alarm</string>
+    <string name="alarm">Mengulangi alarm setiap 09:00 Pagi</string>
+    <string name="time_alarm">09:00</string>
+
+    <string name="message">Ayo cek user github favorit kamu sekarang</string>
+    <string name="messageAction">Pengingat telah dipasang</string>
+    <string name="messageAction2">Pengingat telah dibatalkan</string>
+</resources>
